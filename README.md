@@ -36,13 +36,11 @@ Eu trabalho e pesquiso com uma variedade de tecnologias. Aqui estão as principa
 
 ## 📂 Projetos em Destaque
 
-### 🕹️ Sistemas Embarcados & Cultura Maker
-
 - **[IFlipe - Montagem de Máquina Arcade e Benchmarking](https://github.com/eltongustavo/iflipe)** (2024-Atual)
   - Projeto unificado de pesquisa e extensão focado na criação de uma máquina de Arcade educativa.
   - **Hardware & Software:** Utilização de Raspberry Pi 3 e integração de botões via GPIO.
   - **Pesquisa:** Realização de testes de desempenho (benchmarking) do sistema RetroPie com emuladores complexos (como PlayStation 1 e N64).
-  - 📚 **Publicação:** Este repositório também hospeda o material didático gerado pelo projeto: o *Manual de Instalação do RetroPie e Construção de Fliperama Arcade* (2024). Disponível nos arquivos acima.
+  - 📚 **Publicação:** Ebook com manual de como recriar esse projeto publicado com **ISBN**: 978-65-01-22468-8
 
 ---
 
