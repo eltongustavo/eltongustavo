@@ -1,4 +1,4 @@
-# Olá, eu sou o Elton Gustavo! 👋
+# Olá, eu sou o Elton Gustavo!
 
 ---
 
@@ -43,13 +43,6 @@ Eu trabalho e pesquiso com uma variedade de tecnologias. Aqui estão as principa
   - **Hardware & Software:** Utilização de Raspberry Pi 3 e integração de botões via GPIO.
   - **Pesquisa:** Realização de testes de desempenho (benchmarking) do sistema RetroPie com emuladores complexos (como PlayStation 1 e N64).
   - 📚 **Publicação:** Este repositório também hospeda o material didático gerado pelo projeto: o *Manual de Instalação do RetroPie e Construção de Fliperama Arcade* (2024). Disponível nos arquivos acima.
-
-## 📊 Minhas Estatísticas do GitHub
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eltongustavo&show_icons=true&theme=onedark" alt="Estatísticas do GitHub de Elton"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltongustavo&layout=compact&theme=onedark&hide=html,css,markdown" alt="Linguagens Principais"/>
-</div>
 
 ---
 
