@@ -1,6 +1,4 @@
-# Olá, eu sou o Elton Gustavo!
-
----
+# Olá, eu sou Elton Gustavo!
 
 ## 🚀 Sobre mim
 
