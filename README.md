@@ -36,8 +36,8 @@ Eu trabalho e pesquiso com uma variedade de tecnologias. Aqui estão as principa
 
 - **[🕹️ IFlipe: Montagem de uma Máquina Arcade](https://github.com/eltongustavo/iflipe)** (2024-Atual)
   - Projeto unificado de pesquisa e extensão focado na criação de uma máquina de Arcade educativa.
-  - **Hardware & Software:** Utilização de Raspberry Pi 3 e integração de botões via GPIO.
-  - **Pesquisa:** Realização de testes de desempenho (benchmarking) do sistema RetroPie com emuladores complexos (como PlayStation 1 e N64).
+  - 💻 **Hardware & Software:** Utilização de Raspberry Pi 3 e integração de botões via GPIO.
+  - 🔎 **Pesquisa:** Realização de testes de desempenho (benchmarking) do sistema RetroPie com emuladores complexos (como PlayStation 1 e N64).
   - 📚 **Publicação:** Ebook com manual de como recriar esse projeto publicado com **ISBN**: 978-65-01-22468-8
 
 ---
