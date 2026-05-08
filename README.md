@@ -11,7 +11,7 @@ Atualmente cursando Graduação em Tecnologia da Informação na **UFRN**, forma
 
 ## 📂 Projetos em Destaque
 
-**[🕹️ IFlipe: Montagem de uma Máquina Arcade](https://github.com/eltongustavo/iflipe)** (2024-Atual)
+**[🕹️ IFlipe: Montagem de uma Máquina Arcade](https://github.com/eltongustavo/iflipe)**
   - 💻 **Hardware & Software:** Utilização de Raspberry Pi 3 e integração de botões via GPIO.
   - 🔎 **Pesquisa:** Realização de testes de desempenho (benchmarking) do sistema RetroPie com emuladores complexos (como PlayStation 1 e N64).
   - 📚 **Publicação:** Ebook com manual de como recriar esse projeto publicado com **ISBN**: 978-65-01-22468-8
